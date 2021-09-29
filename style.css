@@ -1,0 +1,82 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-size: 100%;
+}
+
+.container{
+     max-width: 1200px;
+     width: 100%;
+     margin: 0 auto;
+     
+}
+
+.header-content{
+	display: flex;
+	justify-content: space-between;
+    
+}
+
+.navbar-ul{
+	display: flex;
+	list-style: none;
+    
+
+}
+.navbar-li{
+	font-size: 16px;
+	margin: 18px;
+    color: white;
+    /*ფერს არ აღიქვამს*/
+}
+.contact{
+	background-color: white;
+
+}
+
+/*body styles*/
+
+body{
+   background-color: blue;
+}
+.pictures-list{
+	display: flex;
+	margin-top: 100px;
+	justify-content: space-between;
+}
+
+.photo1{
+	height: 397px;
+
+}
+img{
+	height: 197px;
+
+}
+
+.moving{
+	transform: rotate(15deg);
+	/*საპირისპიროდ როგორ ამოვატრიალო მეორე ფოტო არ ვიცი */
+}
+
+
+/*ფოტოებს ვერ ვიწერ XD-დან ამიტომ გამოვიყენე სხვა ფოტოები*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
